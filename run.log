@@ -1,0 +1,12 @@
+2026-06-03 16:42:42,742 [INFO] Job started
+2026-06-03 16:42:42,742 [INFO] Loading config from: config.yaml
+2026-06-03 16:42:42,742 [INFO] Config loaded — seed=42, window=5, version=v1
+2026-06-03 16:42:42,742 [INFO] Loading data from: data.csv
+2026-06-03 16:42:42,776 [INFO] Data loaded — 10000 rows
+2026-06-03 16:42:42,776 [INFO] Computing rolling mean...
+2026-06-03 16:42:42,776 [INFO] Generating signals...
+2026-06-03 16:42:42,781 [INFO] Rows processed: 10000
+2026-06-03 16:42:42,781 [INFO] Signal rate: 0.4991
+2026-06-03 16:42:42,781 [INFO] Latency: 38ms
+2026-06-03 16:42:42,781 [INFO] Job completed successfully
+2026-06-03 16:42:42,784 [INFO] Metrics written to: metrics.json
